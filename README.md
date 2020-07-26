@@ -5,3 +5,4 @@ Following are some useful python scripts in model traning, testing, and generate
 2. Feature_preparation_election_engineering
 3. Model_selection_tuning
 4. Kaggle_workflow
+   - Python and Jupyter Notebook *.ipynb
