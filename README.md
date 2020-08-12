@@ -5,4 +5,4 @@ Following are some useful python scripts in ML model traning, testing, compariso
 2. Feature_preparation_selection_engineering.py
 3. Model_selection_tuning.py
 4. Model_comparison_prediction.py
-5. Model_comparison_prediction.ipynb - includes MLP classifier for performance comparison
+5. Model_comparison_prediction.ipynb
