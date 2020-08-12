@@ -1,5 +1,5 @@
 Getting started with Kaggle competitions using Titanic disaster machine learning dataset. 
-Following are some useful python scripts in model traning, testing, and generate excel file in kaggle required format for submission. 
+Following are some useful python scripts in ML model traning, testing, comparison, and generate excel file in kaggle required format for submission. 
 
 1. Getting_started_with_kaggle.py
 2. Feature_preparation_selection_engineering.py
